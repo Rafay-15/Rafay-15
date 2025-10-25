@@ -65,8 +65,10 @@ Here are some of the technologies I'm proficient in:
   
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafay-15&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafay-15&layout=compact&langs_count=8&theme=dracula"/>
+
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rafay-15&theme=dracula" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafay-15&layout=compact&langs_count=8&theme=dracula"/>
+
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/Rafay-15/Rafay-15/output/snake.svg" alt="Snake animation" />
