@@ -69,4 +69,4 @@ Here are some of the technologies I'm proficient in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafay-15&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/usmanmalik07/usmanmalik07/output/snake.svg" alt="Snake animation" /> </p>
+<img src="https://raw.githubusercontent.com/Rafay-15/Rafay-15/snake.svg" alt="Snake animation" /> </p>
