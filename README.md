@@ -1,3 +1,4 @@
+[**View My Portfolio**](https://muhammadrafaysiddiqui.vercel.app) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [**Download My CV**](./Muhammad-Rafay-Siddiqui-CV.pdf)
 
 <h1 align="center">Hi there, I'm Muhammad Rafay 👋</h1>
 <h3 align="center">A FullStack Developer building high-scalability reliable systems. </h3>
