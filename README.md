@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Portfolio-View%20Site-blue?style=for-the-badge&logo=vercel" alt="View Portfolio"/>
   </a>
   &nbsp;
-  <a href="./Muhammad-Rafay-Siddiqui-CV.pdf" target="_blank">
+  <a href="https://github.com/Rafay-15/Rafay-15/blob/main/Muhammad-Rafay-Siddiqui-CV.pdf?raw=true" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=readme" alt="Download CV"/>
   </a>
 </p>
