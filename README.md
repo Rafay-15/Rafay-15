@@ -1,7 +1,14 @@
-[**View My Portfolio**](https://muhammadrafaysiddiqui.vercel.app) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [**Download My CV**](./Muhammad-Rafay-Siddiqui-CV.pdf)
-
 <h1 align="center">Hi there, I'm Muhammad Rafay 👋</h1>
 <h3 align="center">A FullStack Developer building high-scalability reliable systems. </h3>
+<p align="center">
+  <a href="https://muhammadrafaysiddiqui.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Site-blue?style=for-the-badge&logo=vercel" alt="View Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="./Muhammad-Rafay-Siddiqui-CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge&logo=readme" alt="Download CV"/>
+  </a>
+</p>
 
 <p align="center">
   I'm a passionate developer with experience in creating robust and scalable backend systems and dynamic frontends. I love tackling complex problems, from optimizing database performance to designing high performace system to building intelligent NLP based systems.  
